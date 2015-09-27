@@ -1,0 +1,3 @@
+When we initialize a git repository the command creates a .git folder which has all the metadata the it wants to track the versions.
+
+Staging area is a intermediatory space which helps me to put certing files and commit it as a single unit. It is helpful when i have made a bunch of changes indifferent file and not want to commit is a systematic way based on some logic that i was trying to solve.
