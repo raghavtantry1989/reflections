@@ -1,0 +1,21 @@
+Viewing the diff between two files helped me to find the exact place where i had to make the changes.
+Thus i can be confident about the place where the changes had to be made and need not double check.
+Which i would have done if i manually checked for difference.
+
+I can make changes freely knowing that i have a backup of the files.
+This gives me confidence and also i can go back to these files easly rather than searching fot them in multiple places.
+All history natly available makes my life easier.
+
+The developers should be given the control of when they want to create a version of a file.
+They can commit at logical intervals that makes sense to them rather than creating a version after some arbitrary interval.
+
+Both git and Google docs are used to vastly different purposes.
+Google Docs is for general purpose dosuments that basically consist of one file data. So the version control is done automagically by the application.
+
+Git is for developers. Developers always / most often make changes in many files but these changes are logically considered as one.So it makes sense to save all the changes as part of one logical unit. Hence the control is given to the developer to create a version when required.
+
+git log will show a log of all the previous commits that happened since the project got started.
+Git diff is a command which shows the lines added / removed in other words changes that happened between two commits
+
+Since we know that we will have all the backups with us we can sometimes become carless and do things that will less attention and in that process introduce bugs.
+
