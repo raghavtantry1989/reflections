@@ -1,3 +1,18 @@
 When we initialize a git repository the command creates a .git folder which has all the metadata the it wants to track the versions.
 
 Staging area is a intermediatory space which helps me to put certing files and commit it as a single unit. It is helpful when i have made a bunch of changes indifferent file and not want to commit is a systematic way based on some logic that i was trying to solve.
+
+We can use commands like diff diff --staged and reset --hard to be sure about the changes we have in our staging area are logical units that we want to maintain
+as a version
+
+Branches are helpful when i am doing some work on the master branch which is ata a logical tangent from the current direction of the project.
+It is significantly different that we have to bracnh the current project.
+But there may be cases where i want to frequently jump back and forth between the two branches and work on them simultaneously.
+So branches help a great deal with this.
+
+Every commit is linked to its single parent commit.
+As there is a single way to reach a parent the enitire tree traversal between the different commits is a single directional flow.
+
+
+
+
